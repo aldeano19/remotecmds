@@ -10,7 +10,7 @@
 
 The goal of this exercise it to trigger commands remotely. The
 application is going to be a server that can
-concurrenctly receive a list of
+concurrently receive a list of
 predefined commands. The status of the server and the status of each
 task should also be available via specific commands.
 Here is a list of suggested commands:
